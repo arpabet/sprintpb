@@ -1,4 +1,4 @@
-module github.com/sprintframework/sprintpb
+module go.arpabet.com/sprintpb
 
 go 1.17
 
